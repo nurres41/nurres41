@@ -7,7 +7,7 @@
 
 <br><br>
 
-- :school: I am a `Graduate` at [Faculty of Electric And Electronics](https://uludag.edu.tr/eem) at [Bursa Uludag University](https://uludag.edu.tr/).
+- :school: I am a `Graduate` at [Faculty of Electric And Electronics Engineering](https://uludag.edu.tr/eem) at [Bursa Uludag University](https://uludag.edu.tr/).
 - :trophy: Being selected among thousands of software developers for various bootcamps.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Hackerrank`, `Leetcode`, `Codechef`.
