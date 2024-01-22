@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nurionurkurtulus/">
-    <img src="https://skillicons.dev/icons?i=github,git,tailwind,bootstrap,css,sass,less,html,js,react,vue,redux,ts,materialui,nextjs,nodejs,mongodb,mysql,postgresql,gql,gcp,firebase,postman,express,nuxt,nest&perline=13" />
+    <img src="https://skillicons.dev/icons?i=github,git,tailwind,bootstrap,css,sass,html,js,react,vue,redux,ts,materialui,nextjs,nodejs,mongodb,mysql,postgresql,gql,gcp,firebase,postman,express,nuxt,nest&perline=13" />
   </a>
 </p>
 
